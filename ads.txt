@@ -1,1 +1,9 @@
 google.com, pub-4927917702689265, DIRECT, f08c47fec0942fa0
+algorix.co, 604622, DIRECT, 5b394c12fea27a1d
+pubnative.net, 1007262, RESELLER, d641df8625486a7b
+smartyads.com, 897, fd2bde0ff2e62c5d, RESELLER
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+admixer.net, a80e4ca1-f52f-4aa5-98e1-010c8d08251b, RESELLER
+epom.com, 9228dad8-6fd8-4e11-8885-f5a02dc42604, RESELLER
+Peak226.com, 12900, RESELLER
+thebrave.io, 1234633, Reseller, c25b2154543746ac
